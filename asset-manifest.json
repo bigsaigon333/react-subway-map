@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-subway-map/static/css/main.2ff70e36.chunk.css",
-    "main.js": "/react-subway-map/static/js/main.12e1dc60.chunk.js",
-    "main.js.map": "/react-subway-map/static/js/main.12e1dc60.chunk.js.map",
+    "main.js": "/react-subway-map/static/js/main.be9706fc.chunk.js",
+    "main.js.map": "/react-subway-map/static/js/main.be9706fc.chunk.js.map",
     "runtime-main.js": "/react-subway-map/static/js/runtime-main.69f6d476.js",
     "runtime-main.js.map": "/react-subway-map/static/js/runtime-main.69f6d476.js.map",
     "static/js/2.1824d5ec.chunk.js": "/react-subway-map/static/js/2.1824d5ec.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.69f6d476.js",
     "static/js/2.1824d5ec.chunk.js",
     "static/css/main.2ff70e36.chunk.css",
-    "static/js/main.12e1dc60.chunk.js"
+    "static/js/main.be9706fc.chunk.js"
   ]
 }
